@@ -2,7 +2,7 @@ package cs3112.edu;
 
 import java.util.Scanner;
 
-//For a given positive integer n, output the first n primes.
+//For a given positive integer n, outputs the first n primes.
 //e.g. n=3, output: 2,3,5; n=7, output: 2,3,5,7,11,13,17.
 
 public class ProblemOne {
